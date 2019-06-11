@@ -1,6 +1,6 @@
 import unittest
 
-from VSCode.PythonT.app.src.app import my_function
+from app.src.app import my_function
 
 
 class MyTest(unittest.TestCase):
